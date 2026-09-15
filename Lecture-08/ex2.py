@@ -16,5 +16,5 @@ performance_data = {
     }
 }
 
-#1. Calculate the average performance score for each employee
+
 
